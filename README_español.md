@@ -26,6 +26,7 @@ Con esta data esta prohibido correlacionar data con nombres reales, direcciones 
 Tomando en cuenta de que es una data grande con millones de filas o registros podemos usar varias herramientas como Excel con Power Pivot y Acess, SQL, Python o R.
 Para este caso vamos a usar el lenguaje de programación Python para la manipulación de los datos ya que es capaz de manejar grandes cantidades de datos y también usaremos PowerBi para hacer gráficos.
 Para ver la manipulación de datos con detalle le recomiendo revisar el script en Python en main.py.
+https://github.com/drincon02/analisis-divvy-python/blob/main/main.py
 
 ## Análisis Final:
 El objetivo de nuestro análisis es saber en qué se diferencia el uso de las bicicletas entre los usuarios casuales y los miembros. Para responder esta pregunta tenemos la data de viajes de la empresa.
