@@ -25,6 +25,7 @@ With this dataset it is prohibited to correlate data with real names, addresses 
 Considering that it is a large data with millions of rows or records i could use various tools such as Excel with Power Pivot and Access, SQL, Python or R.
 For this case I am going to use the Python programming language for data manipulation since it is capable of handling large amounts of data, and I will also use PowerBi to make graphs.
 To see the data manipulation in detail I recommend you review the following Python script whis is at main.py
+https://github.com/drincon02/analisis-divvy-python/blob/main/main.py
 
 ## Final Analysis:
 The objective of our analysis is to know how the use of bikes differs between casual users and members.
